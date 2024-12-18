@@ -1,0 +1,26 @@
+[
+  {
+    "internal_name": "warrior",
+    "attack_power": 10,
+    "health_points": 100,
+    "level": 1
+  },
+  {
+    "internal_name": "monster",
+    "attack_power": 10,
+    "health_points": 100,
+    "level": 1
+  },
+  {
+    "internal_name": "monster",
+    "attack_power": 10,
+    "health_points": 100,
+    "level": 2
+  },
+  {
+    "internal_name": "warrior",
+    "attack_power": 10,
+    "health_points": 100,
+    "level": 2
+  }
+]
